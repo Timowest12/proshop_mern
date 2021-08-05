@@ -1,3 +1,12 @@
+# IMPROVED PROSHOP
+
+The MERN-ECOMMERCE Udemy course is finshed by the end of the cousrse, and altrough it's still pretty good(Brad did a great job) but some technical issues arrise.The site is not competely done, I'ts not at all seo optomalized,it only uses paypal as sigle payment method while i would love to see stripe,Crypto and Mollie(europeans biggest payment provider). s there should also be a goof efficient shipping and communications process Just to be clear, i love Brad Traversy and he is one of my main techers
+# WHAT FEATURES SHOULD BE CHANGED
+
+
+
+
+
 # ProShop eCommerce Platform
 
 > eCommerce platform built with the MERN stack & Redux.
